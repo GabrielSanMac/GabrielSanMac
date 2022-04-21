@@ -1,7 +1,7 @@
 ```javascript
 const Perfil = {
   Nome : "GabrielSanMac",
-  País : "Brazil",
+  País : "Brasil",
   Idioma : ["Portuguese","English"],
   Mensagem : "Olá, Seja Bem Vindo ao meu perfil, sou estudante de ADS, e amante de Novas Tecnologias",
   Skills : [
