@@ -2,7 +2,6 @@
 
 [![Resource](https://github.com/GabrielSanMac/GabrielSanMac/blob/main/Resource/resource.png?raw=true "Resource")](http://https://github.com/GabrielSanMac/GabrielSanMac/blob/main/Resource/resource.png?raw=true "Resource")
 
-## 👦🏻 Português
 ### 📖 História
 
 Meu nome é **Gabriel**, tenho 21 anos e moro no interior de São Paulo, Brasil.
