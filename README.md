@@ -27,7 +27,7 @@ Conheci a programação em 2017 com Lógica de Programação e Algoritimos que e
 #### Idiomas *Nivel Profissional*
 
 - Português (Nativo)
-- English (Advanced)
+- English (Intermediario)
 
 *My English is great for talking about programming, reading simples documents, listening music and watching some tv series.
 I keep studing and improving it.*
