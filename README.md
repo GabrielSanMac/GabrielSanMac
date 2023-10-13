@@ -10,16 +10,16 @@ Conheci a programação em 2017 com Lógica de Programação e Algoritimos que e
 
 ### 🤹🏻‍♂️ Hard Skills
 ##### Estudando Atualmente (Junho/2023)
-[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 #### Back End
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,python,java)](https://skillicons.dev)
 
 #### Front End
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma)](https://skillicons.dev)
 
 #### BD
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 #### Outros
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git)](https://skillicons.dev)
@@ -29,8 +29,7 @@ Conheci a programação em 2017 com Lógica de Programação e Algoritimos que e
 - Português (Nativo)
 - English (Intermediario)
 
-*My English is great for talking about programming, reading simples documents, listening music and watching some tv series.
-I keep studing and improving it.*
+*I'd like improve my English, I can understand peoples talking about some subjects, mainly programming subjects.*
 
 ### 📍 Metas
 #### Curto Prazo (5 anos)
