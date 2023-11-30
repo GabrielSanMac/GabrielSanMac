@@ -17,7 +17,7 @@ Conheci a programação em 2017 com Lógica de Programação e Algoritimos que e
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma)](https://skillicons.dev)
 
 #### BD
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)](https://skillicons.dev)
 
 #### Outros
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker)](https://skillicons.dev)
