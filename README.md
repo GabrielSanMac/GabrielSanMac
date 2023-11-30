@@ -9,8 +9,6 @@ Sou estudante de **Analise e Desenvolvimento de Sistemas** até o momento e atuo
 Conheci a programação em 2017 com Lógica de Programação e Algoritimos que estudava em casa pelo computador, tentei superficialmente varias áreas e linguagens até entender que tenho uma afinidade pelo mundo **Back-End**,**Open Source**,**Linux** e **Servidores**.
 
 ### 🤹🏻‍♂️ Hard Skills
-##### Estudando Atualmente (Junho/2023)
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 #### Back End
 [![My Skills](https://skillicons.dev/icons?i=php,python,java)](https://skillicons.dev)
@@ -22,7 +20,7 @@ Conheci a programação em 2017 com Lógica de Programação e Algoritimos que e
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 #### Outros
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker)](https://skillicons.dev)
 
 #### Idiomas *Nivel Profissional*
 
@@ -32,10 +30,10 @@ Conheci a programação em 2017 com Lógica de Programação e Algoritimos que e
 *I'd like improve my English, I can understand peoples talking about some subjects, mainly programming subjects.*
 
 ### 📍 Metas
-#### Curto Prazo (5 anos)
+#### Curto Prazo (10 anos)
 Conseguir me encaixar dentro da área como Desenvolvedor Junior/Pleno com foco e ganhar experiencia com isso, ter como portifolio varios projetos diferenciados e com tecnologias novas.
 
-#### Longo Prazo (10 anos)
+#### Longo Prazo (15 anos)
 Conseguir me tornar um otimo profissional sendo uma Dev Back End ou DevOp, Estar morando no exterior ou Trabalhando para o exterior com foco no Canadá.
 
 ### Redes Sociais
